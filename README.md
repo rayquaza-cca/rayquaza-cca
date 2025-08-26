@@ -22,7 +22,7 @@
 
 <p align="center">
 I'm <b>AJ</b>, an 18-year-old <b>2nd Year BS Computer Science student</b> at <b>City College of Angeles</b>.<br>
-I'm currently building my skills in coding and exploring different areas of tech to find to my niche.<br><br>
+I'm currently building my skills in coding and exploring different areas of tech to find my niche.<br><br>
 </p>
 
 ###
